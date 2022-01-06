@@ -31,7 +31,7 @@ To run this project locally, follow these steps.
 ```sh
 git clone https://github.com/johnoseni1/NFT-full-market-place
 
-cd polygon-ethereum-nextjs-marketplace
+cd NFT-full-market-place
 
 # install using NPM or Yarn
 npm install
